@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrowDrivingSchool.API", "ArrowDrivingSchool.API\ArrowDrivingSchool.API.csproj", "{2DE8B840-C5A5-43C0-AFCA-390E2793BCE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrowDrivingSchool.Application", "ArrowDrivingSchool.Application\ArrowDrivingSchool.Application.csproj", "{9A9A7130-8BBA-4677-AFB7-E727941DBCD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrowDrivingSchool.Domain", "ArrowDrivingSchool.Domain\ArrowDrivingSchool.Domain.csproj", "{BEC6970E-B9A7-4808-866A-4EE3C823C1C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrowDrivingSchool.Infrastructure", "ArrowDrivingSchool.Infrastructure\ArrowDrivingSchool.Infrastructure.csproj", "{4D3F6A77-668C-4B27-AB2C-962ED8179C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrowDrivingSchool.Shared", "ArrowDrivingSchool.Shared\ArrowDrivingSchool.Shared.csproj", "{BAFA5BF5-643D-484A-91FC-9E67B3607AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE8B840-C5A5-43C0-AFCA-390E2793BCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE8B840-C5A5-43C0-AFCA-390E2793BCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE8B840-C5A5-43C0-AFCA-390E2793BCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE8B840-C5A5-43C0-AFCA-390E2793BCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9A7130-8BBA-4677-AFB7-E727941DBCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9A7130-8BBA-4677-AFB7-E727941DBCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9A7130-8BBA-4677-AFB7-E727941DBCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9A7130-8BBA-4677-AFB7-E727941DBCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC6970E-B9A7-4808-866A-4EE3C823C1C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC6970E-B9A7-4808-866A-4EE3C823C1C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC6970E-B9A7-4808-866A-4EE3C823C1C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC6970E-B9A7-4808-866A-4EE3C823C1C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3F6A77-668C-4B27-AB2C-962ED8179C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3F6A77-668C-4B27-AB2C-962ED8179C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3F6A77-668C-4B27-AB2C-962ED8179C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3F6A77-668C-4B27-AB2C-962ED8179C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAFA5BF5-643D-484A-91FC-9E67B3607AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFA5BF5-643D-484A-91FC-9E67B3607AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFA5BF5-643D-484A-91FC-9E67B3607AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFA5BF5-643D-484A-91FC-9E67B3607AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
