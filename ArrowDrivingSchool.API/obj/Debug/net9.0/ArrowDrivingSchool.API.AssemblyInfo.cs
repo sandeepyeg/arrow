@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrowDrivingSchool.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da90671ee51f593864449c977674c4f54b3f0d5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b75883831e6617ebee2fdcce3caa7b4400ae7cad")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrowDrivingSchool.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrowDrivingSchool.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

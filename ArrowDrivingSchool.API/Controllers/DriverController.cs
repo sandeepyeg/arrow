@@ -1,11 +1,14 @@
 using ArrowDrivingSchool.Infrastructure.Repositories.Interfaces;
 using ArrowDrivingSchool.Shared.DTOs;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ArrowDrivingSchool.API.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+[Authorize]
+
 public class DriverController(IDriverRepository repo) : ControllerBase
 {
     [HttpGet]
