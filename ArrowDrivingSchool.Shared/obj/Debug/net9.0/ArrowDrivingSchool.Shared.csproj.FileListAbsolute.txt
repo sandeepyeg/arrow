@@ -1,0 +1,12 @@
+C:\Driving\ArrowDrivingSchool\ArrowDrivingSchool.Shared\bin\Debug\net9.0\ArrowDrivingSchool.Shared.deps.json
+C:\Driving\ArrowDrivingSchool\ArrowDrivingSchool.Shared\bin\Debug\net9.0\ArrowDrivingSchool.Shared.dll
+C:\Driving\ArrowDrivingSchool\ArrowDrivingSchool.Shared\bin\Debug\net9.0\ArrowDrivingSchool.Shared.pdb
+C:\Driving\ArrowDrivingSchool\ArrowDrivingSchool.Shared\obj\Debug\net9.0\ArrowDrivingSchool.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Driving\ArrowDrivingSchool\ArrowDrivingSchool.Shared\obj\Debug\net9.0\ArrowDrivingSchool.Shared.AssemblyInfoInputs.cache
+C:\Driving\ArrowDrivingSchool\ArrowDrivingSchool.Shared\obj\Debug\net9.0\ArrowDrivingSchool.Shared.AssemblyInfo.cs
+C:\Driving\ArrowDrivingSchool\ArrowDrivingSchool.Shared\obj\Debug\net9.0\ArrowDrivingSchool.Shared.csproj.CoreCompileInputs.cache
+C:\Driving\ArrowDrivingSchool\ArrowDrivingSchool.Shared\obj\Debug\net9.0\ArrowDrivingSchool.Shared.sourcelink.json
+C:\Driving\ArrowDrivingSchool\ArrowDrivingSchool.Shared\obj\Debug\net9.0\ArrowDrivingSchool.Shared.dll
+C:\Driving\ArrowDrivingSchool\ArrowDrivingSchool.Shared\obj\Debug\net9.0\refint\ArrowDrivingSchool.Shared.dll
+C:\Driving\ArrowDrivingSchool\ArrowDrivingSchool.Shared\obj\Debug\net9.0\ArrowDrivingSchool.Shared.pdb
+C:\Driving\ArrowDrivingSchool\ArrowDrivingSchool.Shared\obj\Debug\net9.0\ref\ArrowDrivingSchool.Shared.dll
